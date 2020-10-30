@@ -1,218 +1,214 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Brian Fung",
+        "picture": "https://i.postimg.cc/ZnphKvLV/profilepic.png",
+        "summary": "Senior QA Engineer",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
-            }
-        ]
+            "city": "Melbourne",
+            "countryCode": "AU"
+        }
     },
-    "work": [
-        {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "institution": "RMIT University",
+            "area": "Electrical Engineering/Commerce",
+            "studyType": "Bachelor's Degree",
+            "startDate": "2011-03-01",
+            "endDate": "2015-06-01"
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "institution": "OWASP Appsec Day 2019",
+            "area": "Web Hacking",
+            "studyType": "Bootcamp",
+            "startDate": "2019-10-01",
+            "endDate": "2019-10-02"
         }
     ],
     "skills": [
         {
-            "name": "Reactaaa",
+            "name": "Python",
             "level": "Master",
-            "value": 100,
+            "value": 70,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
+            "name": "Bash",
             "level": "Master",
-            "value": 80,
+            "value": 70,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "NodeJS",
+            "name": "CI/CD",
             "level": "Master",
-            "value": 40,
+            "value": 70,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "Test Automation",
             "level": "Master",
             "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
+            "name": "AWS",
             "level": "Master",
-            "value": 20,
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
+            "name": "Linux",
             "level": "Master",
-            "value": 80,
+            "value": 30,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        { 
+            "language": "English", 
+            "value": 99, 
+            "fluency": "Native speaker"
+        },
+        {   
+            "language": "Cantonese", 
+            "value": 99, 
+            "fluency": "Native speaker"
+        },
+        {   
+            "language": "Japanese", 
+            "value": 50, 
+            "fluency": "Intermediate"
+        }
+    ],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Fitness",
+            "gifUrl": "https://media.giphy.com/media/26BRz37sa0C4mYUQ8/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Games",
+            "gifUrl": "https://media.giphy.com/media/GNvWw0pDL6QRW/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Animation",
+            "gifUrl": "https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Music",
+            "gifUrl": "https://media.giphy.com/media/pEGIFM7NMgWVG/giphy.gif"
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
+            "index": 0,
+            "name": "28 By Sam Wood",
+            "startDate": "2020-06-05",
+            "endDate": "2020-09-24",
+            "description": "Fitness and nutrition platform helping people live their life better by bringing life-changing fitness and nutrition to every home.",
+            "images": ["https://i.postimg.cc/ZnphKvLV/profilepic.png"],
+            "link" : "https://28bysamwood.com/"
+        },
+        {
+            "index": 1,
+            "name": "CovidCare",
+            "startDate": "2020-03-05",
+            "endDate": "2020-04-24",
+            "description": "Linking patients in self-isolation to doctors at the front-line of the Covid-19 pandemic.",
+            "images": [],
+            "link" : "https://www.covidcare.io/"
+        },
+        {
+            "index": 2,
+            "name": "Beyond Blue",
+            "startDate": "2018-06-05",
+            "endDate": "2020-09-24",
+            "description": "Beyond Now suicide safety planning app assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts. Using the app, you can list ideas and contacts to stay safe, including warning signs, coping strategies, reasons for living, and ways to make your environment safe.",
+            "images": [],
+            "link" : "https://apps.apple.com/au/app/beyondnow-suicide-safety-plan/id1059270058"
+        },
+        {
+            "index": 3,
+            "name": "Scouts Australia",
+            "startDate": "2020-06-05",
+            "endDate": "2020-09-24",
+            "description": "A youth program digital system to uplift the existing pen-and-paper Scouts program",
+            "images": [],
+            "link" : "https://scouts.com.au/blog/2020/06/29/scouts-terrain-launching-late-july/"
+        },
+        {
+            "index": 4,
+            "name": "Althea Concierge",
+            "startDate": "2019-06-05",
+            "endDate": "2019-09-24",
+            "description": "A service that simplifies the medicinal cannabis application process for patients and healthcare professionals – making it easier for patients to access the support they need.",
+            "images": [],
+            "link" : "https://althea.life/access-made-simple"
+        },
+        {
+            "index": 5,
+            "name": "Sesame Street Yourself",
+            "startDate": "2018-06-05",
+            "endDate": "2018-09-24",
+            "description": "An engaging Augmented Reality experience enabling children to sing and play along with their favorite screen characters.",
+            "images": [],
+            "link" : "https://www.weyo.app/sesame-street-yourself-app-safety/"
+        },
+        {
+            "index": 6,
+            "name": "Wiggles Fun Time With Faces",
+            "startDate": "2018-06-05",
+            "endDate": "2018-09-24",
+            "description": "A brand new way of telling stories and singing songs with interactive video and fun Augmented Reality faces.",
+            "images": [],
+            "link" : "https://www.abcmusic.com.au/discography/fun-time-faces#:~:text=The%20Wiggles%3A%20Fun%20Time%20With,the%20world%20of%20The%20Wiggles."
+        },
+        {
+            "index": 7,
+            "name": "Service Victoria",
+            "startDate": "2018-06-05",
+            "endDate": "2018-09-24",
+            "description": "A platform to securely store and share your identity including things like licences and permits.",
+            "images": [],
+            "link" : "https://apps.apple.com/au/app/service-victoria/id1438062029"
+        },
+        {
+            "index": 8,
+            "startDate": "2017-06-05",
+            "endDate": "2017-12-24",
+            "name": "Verizon Digital Kiosk",
+            "description": "Communications hubs that connect people to important and useful information - providing weather and emergency alerts, maps and hyperlocal community information about transit, restaurants, businesses and events. People can also access free Wi-Fi, local and emergency calling and mobile device charging.",
+            "images": [],
+            "link" : "https://enterprise.verizon.com/en-au/products/internet-of-things/smart-cities-and-communities/digital-kiosk/"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
-        },
-        "dreamJob": {
-            "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
-            ],
-            "remoteFrequency": "regularly"
-        },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
+            "visaSponsorship": false,
+            "personalDescription": "I've been working as a QA Engineer for 3 years in my professional career and delivered numerous mobile and web based projects in agile and waterfall environments. I have a strong interest in automation and strive to continuously learn and improve."
         },
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 9
+            "codingYears": 5
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/embed/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=_Ba2bFPVTXiszwOt_LJyxg"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Automation, DevOps, Security"
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "https://images.unsplash.com/photo-1494122440615-9e21a6890164?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
             "alt": "Default Banner"
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
             { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
+            { "type": "gifs", "variant": 0 },
             { "type": "soundtrack", "variant": 4 }
         ],
         "fields": {
