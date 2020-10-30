@@ -18,6 +18,7 @@ const ShareLinksComponent = ({ useSmallLayout }) => {
     const classes = useStyles();
     const { formatMessage } = useIntl();
     const [link, setLink] = useState();
+    const gitHubLink = 'fungiwnl';
 
     const [backgroundLineSpringProps, setBackgroundLineSpringProps] = useSpring(() => ({
         ...BACKGROUND_LINE_SPRING_PROPS.default,
@@ -61,7 +62,8 @@ const ShareLinksComponent = ({ useSmallLayout }) => {
                                 className={classes.link}
                                 href={getLink({
                                     link,
-                                    translatedMessage
+                                    translatedMessage,
+                                    gitHubLink
                                 })}
                                 target="_blank"
                                 rel="noreferrer noopener"
