@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-ultimate-resume/static/css/main.794802cd.chunk.css",
-    "main.js": "/react-ultimate-resume/static/js/main.fbaf0de5.chunk.js",
-    "main.js.map": "/react-ultimate-resume/static/js/main.fbaf0de5.chunk.js.map",
+    "main.js": "/react-ultimate-resume/static/js/main.4828f766.chunk.js",
+    "main.js.map": "/react-ultimate-resume/static/js/main.4828f766.chunk.js.map",
     "runtime-main.js": "/react-ultimate-resume/static/js/runtime-main.e8372dd2.js",
     "runtime-main.js.map": "/react-ultimate-resume/static/js/runtime-main.e8372dd2.js.map",
-    "static/js/2.3cce62a6.chunk.js": "/react-ultimate-resume/static/js/2.3cce62a6.chunk.js",
-    "static/js/2.3cce62a6.chunk.js.map": "/react-ultimate-resume/static/js/2.3cce62a6.chunk.js.map",
+    "static/js/2.64f17756.chunk.js": "/react-ultimate-resume/static/js/2.64f17756.chunk.js",
+    "static/js/2.64f17756.chunk.js.map": "/react-ultimate-resume/static/js/2.64f17756.chunk.js.map",
     "index.html": "/react-ultimate-resume/index.html",
-    "precache-manifest.eb421a3ed57cfcf4df8e274ae698dbe8.js": "/react-ultimate-resume/precache-manifest.eb421a3ed57cfcf4df8e274ae698dbe8.js",
+    "precache-manifest.7f75c6affd446fd64a41292317e50457.js": "/react-ultimate-resume/precache-manifest.7f75c6affd446fd64a41292317e50457.js",
     "service-worker.js": "/react-ultimate-resume/service-worker.js",
     "static/css/main.794802cd.chunk.css.map": "/react-ultimate-resume/static/css/main.794802cd.chunk.css.map",
-    "static/js/2.3cce62a6.chunk.js.LICENSE.txt": "/react-ultimate-resume/static/js/2.3cce62a6.chunk.js.LICENSE.txt",
+    "static/js/2.64f17756.chunk.js.LICENSE.txt": "/react-ultimate-resume/static/js/2.64f17756.chunk.js.LICENSE.txt",
     "static/media/global.css": "/react-ultimate-resume/static/media/AvenirNext-UltraLightItalic.3bb556b6.ttf",
     "static/media/add.f93b93eb.svg": "/react-ultimate-resume/static/media/add.f93b93eb.svg",
     "static/media/arrow-right.8ab55a6c.svg": "/react-ultimate-resume/static/media/arrow-right.8ab55a6c.svg",
@@ -21,7 +21,6 @@
     "static/media/email.e4923653.svg": "/react-ultimate-resume/static/media/email.e4923653.svg",
     "static/media/experiences.be387da1.svg": "/react-ultimate-resume/static/media/experiences.be387da1.svg",
     "static/media/eye.7c6a3e38.svg": "/react-ultimate-resume/static/media/eye.7c6a3e38.svg",
-    "static/media/facebook.66b523aa.svg": "/react-ultimate-resume/static/media/facebook.66b523aa.svg",
     "static/media/github.7ebc2e3b.svg": "/react-ultimate-resume/static/media/github.7ebc2e3b.svg",
     "static/media/hobbies.44e02920.svg": "/react-ultimate-resume/static/media/hobbies.44e02920.svg",
     "static/media/home.06ecb095.svg": "/react-ultimate-resume/static/media/home.06ecb095.svg",
@@ -43,19 +42,17 @@
     "static/media/school.c178c937.svg": "/react-ultimate-resume/static/media/school.c178c937.svg",
     "static/media/share.8beab66e.svg": "/react-ultimate-resume/static/media/share.8beab66e.svg",
     "static/media/skills.e6fdbdda.svg": "/react-ultimate-resume/static/media/skills.e6fdbdda.svg",
-    "static/media/sort.b089d29c.svg": "/react-ultimate-resume/static/media/sort.b089d29c.svg",
     "static/media/soundtrack.51e7ebae.svg": "/react-ultimate-resume/static/media/soundtrack.51e7ebae.svg",
     "static/media/spotify.9477f485.svg": "/react-ultimate-resume/static/media/spotify.9477f485.svg",
     "static/media/success.7cfc0eca.svg": "/react-ultimate-resume/static/media/success.7cfc0eca.svg",
     "static/media/trash.0107ee21.svg": "/react-ultimate-resume/static/media/trash.0107ee21.svg",
-    "static/media/twitter.17282e5a.svg": "/react-ultimate-resume/static/media/twitter.17282e5a.svg",
     "static/media/warn.f32945c6.svg": "/react-ultimate-resume/static/media/warn.f32945c6.svg",
     "static/media/welovedevs.21e1fe05.svg": "/react-ultimate-resume/static/media/welovedevs.21e1fe05.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e8372dd2.js",
-    "static/js/2.3cce62a6.chunk.js",
+    "static/js/2.64f17756.chunk.js",
     "static/css/main.794802cd.chunk.css",
-    "static/js/main.fbaf0de5.chunk.js"
+    "static/js/main.4828f766.chunk.js"
   ]
 }
