@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acf1296557b7dfa733953b072f874fb8",
+    "revision": "ab76b17f4383bcddff54d03599187630",
     "url": "/react-ultimate-resume/index.html"
   },
   {
-    "revision": "d6bda6869b5b05127792",
+    "revision": "94e32c8c4e0e50a31fb6",
     "url": "/react-ultimate-resume/static/css/main.794802cd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-ultimate-resume/static/js/2.64f17756.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6bda6869b5b05127792",
-    "url": "/react-ultimate-resume/static/js/main.4828f766.chunk.js"
+    "revision": "94e32c8c4e0e50a31fb6",
+    "url": "/react-ultimate-resume/static/js/main.bee1ded3.chunk.js"
   },
   {
     "revision": "0f2fe3d02278b53a7a3d",
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "be387da1ca1d63a605feb52bb4782620",
     "url": "/react-ultimate-resume/static/media/experiences.be387da1.svg"
-  },
-  {
-    "revision": "7c6a3e38b19d5591217d159d9feae3f2",
-    "url": "/react-ultimate-resume/static/media/eye.7c6a3e38.svg"
   },
   {
     "revision": "7ebc2e3be77652633c91941f79534562",
