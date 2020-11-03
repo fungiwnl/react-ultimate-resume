@@ -1,91 +1,115 @@
 {
     "basics": {
         "name": "Brian Fung",
+        "label": "Senior QA Engineer",
+        "summary": ".", 
         "picture": "https://i.postimg.cc/ZnphKvLV/profilepic.png",
-        "summary": "Senior QA Engineer",
         "location": {
             "city": "Melbourne",
             "countryCode": "AU"
         }
     },
+    "work": [
+        {
+            "name": "Two Bulls",
+            "position": "Senior QA Engineer",
+            "startDate": "2017-08-01",
+            "summary": " ",
+            "location": "Melbourne"
+        },
+        {
+            "name": "Two Bulls",
+            "position": "QA Engineer",
+            "startDate": "2016-06-01",
+            "endDate": "2017-08-01",
+            "summary": " ",
+            "location": "Melbourne"
+        },
+        {
+            "name": "Rohde&Schwarz",
+            "position": "Intern",
+            "startDate": "2014-06-01",
+            "endDate": "2015-02-01",
+            "summary": " ",
+            "location": "Singapore"
+        }
+    ],
     "education": [
         {
             "institution": "RMIT University",
-            "area": "Electrical Engineering/Commerce",
-            "studyType": "Bachelor's Degree",
-            "startDate": "2011-03-01",
-            "endDate": "2015-06-01"
+            "area": "Elecrical Engineering/Commerce",
+            "studyType": "Honours Degree",
+            "startDate": "2011-01-01",
+            "endDate": "2015-05-01"
         },
         {
-            "institution": "OWASP Appsec Day 2019",
+            "institution": "OWASP AppSec Day",
             "area": "Web Hacking",
             "studyType": "Bootcamp",
-            "startDate": "2019-10-01",
-            "endDate": "2019-10-02"
+            "startDate": "2019-01-10",
+            "endDate": "2019-01-10"
         }
     ],
     "skills": [
         {
-            "name": "Python",
-            "level": "Master",
-            "value": 70,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Bash",
+            "value": 70
         },
         {
-            "name": "Bash",
-            "level": "Master",
-            "value": 70,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Python",
+            "value": 70
         },
         {
             "name": "CI/CD",
-            "level": "Master",
-            "value": 70,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 70
         },
         {
             "name": "Test Automation",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 70
         },
         {
-            "name": "AWS",
-            "level": "Master",
-            "value": 30,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "AWS Platform",
+            "value": 50
         },
         {
             "name": "Linux",
+            "value": 50
+        },
+        {
+            "name": "IaC",
             "level": "Master",
-            "value": 30,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 40
         }
-    ],
-    "languages": [
-        { 
-            "language": "English", 
-            "value": 99, 
-            "fluency": "Native speaker"
-        },
-        {   
-            "language": "Cantonese", 
-            "value": 99, 
-            "fluency": "Native speaker"
-        },
-        {   
-            "language": "Japanese", 
-            "value": 50, 
-            "fluency": "Intermediate"
-        }
-    ],
+        ],
+        "languages": [
+            { 
+                "language": "English", 
+                "value": 99, 
+                "fluency": "Native speaker"
+            },
+            {   
+                "language": "Cantonese", 
+                "value": 50, 
+                "fluency": "Native speaker"
+            },
+            {   
+                "language": "Japanese", 
+                "value": 30, 
+                "fluency": "Intermediate"
+            },
+            {   
+                "language": "Korean", 
+                "value": 10, 
+                "fluency": "Beginner"
+            }
+        ],
     "interests": [
         {
             "name": "Fitness",
             "gifUrl": "https://media.giphy.com/media/26BRz37sa0C4mYUQ8/giphy.gif"
         },
         {
-            "name": "Games",
+            "name": "Gaming",
             "gifUrl": "https://media.giphy.com/media/GNvWw0pDL6QRW/giphy.gif"
         },
         {
@@ -97,7 +121,6 @@
             "gifUrl": "https://media.giphy.com/media/pEGIFM7NMgWVG/giphy.gif"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
             "index": 0,
@@ -119,10 +142,10 @@
         },
         {
             "index": 2,
-            "name": "Beyond Blue",
+            "name": "BeyondNow",
             "startDate": "2018-06-05",
             "endDate": "2020-09-24",
-            "description": "Beyond Now suicide safety planning app assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts. Using the app, you can list ideas and contacts to stay safe, including warning signs, coping strategies, reasons for living, and ways to make your environment safe.",
+            "description": "A suicide safety planning app that assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts.",
             "images": [],
             "link" : "https://apps.apple.com/au/app/beyondnow-suicide-safety-plan/id1059270058"
         },
@@ -176,39 +199,40 @@
             "startDate": "2017-06-05",
             "endDate": "2017-12-24",
             "name": "Verizon Digital Kiosk",
-            "description": "Communications hubs that connect people to important and useful information - providing weather and emergency alerts, maps and hyperlocal community information about transit, restaurants, businesses and events. People can also access free Wi-Fi, local and emergency calling and mobile device charging.",
+            "description": "Communications hubs that connect people to important and useful information - providing weather and emergency alerts, maps and hyperlocal community information about transit, restaurants, businesses and events.",
             "images": [],
-            "link" : "https://enterprise.verizon.com/en-au/products/internet-of-things/smart-cities-and-communities/digital-kiosk/"
+            "link" : "https://www.twobulls.com/case-study-vdk"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": false,
             "personalDescription": "I've been working as a QA Engineer for 3 years in my professional career and delivered numerous mobile and web based projects in agile and waterfall environments. I have a strong interest in automation and strive to continuously learn and improve."
         },
         "education": { "studiesLevel": 5 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 5
+            "codingYears": 5,
+            "codingReason": "I wanted to automate porting my mobile number between providers.",
+            "experienceYears": 6
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=_Ba2bFPVTXiszwOt_LJyxg"
         },
-        "interestedBy": "Automation, DevOps, Security"
+        "interestedBy": "DevOps, Automation, Cyber Security"
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://images.unsplash.com/photo-1494122440615-9e21a6890164?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
             "alt": "Default Banner"
         },
         "cardsOrder": [
-            { "type": "basics", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
             { "type": "studies", "variant": 4 },
             { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
             { "type": "gifs", "variant": 0 },
+            { "type": "language", "variant": 4 },
             { "type": "soundtrack", "variant": 4 }
         ],
         "fields": {
