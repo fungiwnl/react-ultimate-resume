@@ -13,23 +13,23 @@
         {
             "name": "Two Bulls",
             "position": "Senior QA Engineer",
-            "startDate": "2017-08-01",
+            "startDate": "2018-08-01",
             "summary": " ",
             "location": "Melbourne"
         },
         {
             "name": "Two Bulls",
             "position": "QA Engineer",
-            "startDate": "2016-06-01",
-            "endDate": "2017-08-01",
+            "startDate": "2017-05-20",
+            "endDate": "2018-08-01",
             "summary": " ",
             "location": "Melbourne"
         },
         {
             "name": "Rohde&Schwarz",
             "position": "Intern",
-            "startDate": "2014-06-01",
-            "endDate": "2015-02-01",
+            "startDate": "2015-06-01",
+            "endDate": "2016-02-01",
             "summary": " ",
             "location": "Singapore"
         }
@@ -39,8 +39,8 @@
             "institution": "RMIT University",
             "area": "Elecrical Engineering/Commerce",
             "studyType": "Honours Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2015-05-01"
+            "startDate": "2012-01-01",
+            "endDate": "2017-06-01"
         },
         {
             "institution": "OWASP AppSec Day",
