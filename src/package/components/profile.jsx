@@ -47,7 +47,7 @@ const DEFAULT_OPTIONS = Object.freeze({
             alt: 'Default Banner'
         }
     },
-    maxCardsPerRow: null,
+    maxCardsPerRow: 2,
     showContactInfos: false,
     dismissFooter: false
 });
