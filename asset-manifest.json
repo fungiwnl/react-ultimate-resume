@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-ultimate-resume/static/css/main.794802cd.chunk.css",
-    "main.js": "/react-ultimate-resume/static/js/main.94bc0c73.chunk.js",
-    "main.js.map": "/react-ultimate-resume/static/js/main.94bc0c73.chunk.js.map",
+    "main.js": "/react-ultimate-resume/static/js/main.437ce1c1.chunk.js",
+    "main.js.map": "/react-ultimate-resume/static/js/main.437ce1c1.chunk.js.map",
     "runtime-main.js": "/react-ultimate-resume/static/js/runtime-main.e8372dd2.js",
     "runtime-main.js.map": "/react-ultimate-resume/static/js/runtime-main.e8372dd2.js.map",
-    "static/js/2.78c8134e.chunk.js": "/react-ultimate-resume/static/js/2.78c8134e.chunk.js",
-    "static/js/2.78c8134e.chunk.js.map": "/react-ultimate-resume/static/js/2.78c8134e.chunk.js.map",
+    "static/js/2.0baba544.chunk.js": "/react-ultimate-resume/static/js/2.0baba544.chunk.js",
+    "static/js/2.0baba544.chunk.js.map": "/react-ultimate-resume/static/js/2.0baba544.chunk.js.map",
     "index.html": "/react-ultimate-resume/index.html",
-    "precache-manifest.ce080a0a0974f81a6b0ac11435b02c38.js": "/react-ultimate-resume/precache-manifest.ce080a0a0974f81a6b0ac11435b02c38.js",
+    "precache-manifest.11d89e42b609e0b1c1197e8617bf9eb6.js": "/react-ultimate-resume/precache-manifest.11d89e42b609e0b1c1197e8617bf9eb6.js",
     "service-worker.js": "/react-ultimate-resume/service-worker.js",
     "static/css/main.794802cd.chunk.css.map": "/react-ultimate-resume/static/css/main.794802cd.chunk.css.map",
-    "static/js/2.78c8134e.chunk.js.LICENSE.txt": "/react-ultimate-resume/static/js/2.78c8134e.chunk.js.LICENSE.txt",
+    "static/js/2.0baba544.chunk.js.LICENSE.txt": "/react-ultimate-resume/static/js/2.0baba544.chunk.js.LICENSE.txt",
     "static/media/global.css": "/react-ultimate-resume/static/media/AvenirNext-UltraLightItalic.3bb556b6.ttf",
     "static/media/add.f93b93eb.svg": "/react-ultimate-resume/static/media/add.f93b93eb.svg",
     "static/media/arrow-right.8ab55a6c.svg": "/react-ultimate-resume/static/media/arrow-right.8ab55a6c.svg",
@@ -50,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e8372dd2.js",
-    "static/js/2.78c8134e.chunk.js",
+    "static/js/2.0baba544.chunk.js",
     "static/css/main.794802cd.chunk.css",
-    "static/js/main.94bc0c73.chunk.js"
+    "static/js/main.437ce1c1.chunk.js"
   ]
 }
