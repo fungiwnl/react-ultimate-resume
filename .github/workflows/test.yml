@@ -22,3 +22,12 @@ jobs:
           node-version: 12
       - run: yarn install
       - run: npm run test-build
+      - run: yarn build 
+      - uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.ACCESS_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.SECRET_KEY }}  
+          SOURCE_DIR: 'build'
