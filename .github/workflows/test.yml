@@ -23,4 +23,5 @@ jobs:
       - run: yarn install
       - run: npm run test-build
       - run: yarn add @babel/preset-env -D 
+      - run: yarn upgrade laravel-mix
       - run: yarn build
