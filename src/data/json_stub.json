@@ -108,6 +108,7 @@
             "name": "Fitness",
             "gifUrl": "https://media.giphy.com/media/26BRz37sa0C4mYUQ8/giphy.gif"
         },
+
         {
             "name": "Gaming",
             "gifUrl": "https://media.giphy.com/media/GNvWw0pDL6QRW/giphy.gif"
@@ -213,7 +214,10 @@
             "contractTypes": ["permanent"],
             "codingYears": 5,
             "codingReason": "I wanted to automate porting my mobile number between providers.",
-            "experienceYears": 6
+            "searchState": "activelySearching",
+            "experienceYears": 0,
+            "codeExperienceYears": 1,
+            "otherExperienceYears": 1
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=_Ba2bFPVTXiszwOt_LJyxg"
