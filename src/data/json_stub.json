@@ -13,8 +13,8 @@
         {
             "name": "Two Bulls",
             "position": "Senior QA Engineer",
-            "startDate": "2018-08-01",
-            "summary": " ",
+            "startDate": "2019-08-01",
+            "summary": ".",
             "location": "Melbourne"
         },
         {
@@ -64,11 +64,19 @@
             "value": 70
         },
         {
-            "name": "Test Automation",
+            "name": "Mobile Test Automation",
             "value": 70
         },
         {
-            "name": "AWS Platform",
+            "name": "Web Test Automation",
+            "value": 70
+        },
+        {
+            "name": "API Test Automation",
+            "value": 70
+        },
+        {
+            "name": "AWS",
             "value": 50
         },
         {
@@ -125,84 +133,84 @@
     "projects": [
         {
             "index": 0,
+            "name": "Service Victoria",
+            "startDate": "2018-06-05",
+            "endDate": "2020-02-24",
+            "description": "Mobile - A platform to check-in throughout Victoria and securely store and share your identity including things like licences and permits.",
+            "images": [],
+            "link" : "https://service.vic.gov.au/check-in/"
+        },
+        {
+            "index": 1,
             "name": "28 By Sam Wood",
             "startDate": "2020-06-05",
             "endDate": "2020-09-24",
-            "description": "Fitness and nutrition platform helping people live their life better by bringing life-changing fitness and nutrition to every home.",
+            "description": "Mobile - Fitness and nutrition platform helping people live their life better by bringing life-changing fitness and nutrition to every home.",
             "images": ["https://i.postimg.cc/ZnphKvLV/profilepic.png"],
             "link" : "https://28bysamwood.com/"
         },
         {
-            "index": 1,
+            "index": 2,
             "name": "CovidCare",
             "startDate": "2020-03-05",
             "endDate": "2020-04-24",
-            "description": "Linking patients in self-isolation to doctors at the front-line of the Covid-19 pandemic.",
+            "description": "Mobile - Linking patients in self-isolation to doctors at the front-line of the Covid-19 pandemic.",
             "images": [],
             "link" : "https://www.covidcare.io/"
         },
         {
-            "index": 2,
+            "index": 3,
             "name": "BeyondNow",
             "startDate": "2018-06-05",
             "endDate": "2020-09-24",
-            "description": "A suicide safety planning app that assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts.",
+            "description": "Mobile - A suicide safety planning app that assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts.",
             "images": [],
-            "link" : "https://apps.apple.com/au/app/beyondnow-suicide-safety-plan/id1059270058"
+            "link" : "https://www.beyondblue.org.au/get-support/beyondnow-suicide-safety-planning"
         },
         {
-            "index": 3,
+            "index": 4,
             "name": "Scouts Australia",
             "startDate": "2020-06-05",
             "endDate": "2020-09-24",
-            "description": "A youth program digital system to uplift the existing pen-and-paper Scouts program",
+            "description": "Web - A youth program digital system to uplift the existing pen-and-paper Scouts program",
             "images": [],
             "link" : "https://scouts.com.au/blog/2020/06/29/scouts-terrain-launching-late-july/"
         },
         {
-            "index": 4,
+            "index": 5,
             "name": "Althea Concierge",
             "startDate": "2019-06-05",
             "endDate": "2019-09-24",
-            "description": "A service that simplifies the medicinal cannabis application process for patients and healthcare professionals – making it easier for patients to access the support they need.",
+            "description": "Web - A service that simplifies the medicinal cannabis application process for patients and healthcare professionals – making it easier for patients to access the support they need.",
             "images": [],
             "link" : "https://althea.life/access-made-simple"
         },
         {
-            "index": 5,
+            "index": 6,
             "name": "Sesame Street Yourself",
             "startDate": "2018-06-05",
             "endDate": "2018-09-24",
-            "description": "An engaging Augmented Reality experience enabling children to sing and play along with their favorite screen characters.",
+            "description": "Mobile - An engaging Augmented Reality experience enabling children to sing and play along with their favorite screen characters.",
             "images": [],
             "link" : "https://www.weyo.app/sesame-street-yourself-app-safety/"
         },
         {
-            "index": 6,
+            "index": 7,
             "name": "Wiggles Fun Time With Faces",
             "startDate": "2018-06-05",
             "endDate": "2018-09-24",
-            "description": "A brand new way of telling stories and singing songs with interactive video and fun Augmented Reality faces.",
+            "description": "Mobile - A brand new way of telling stories and singing songs with interactive video and fun Augmented Reality faces.",
             "images": [],
-            "link" : "https://www.abcmusic.com.au/discography/fun-time-faces#:~:text=The%20Wiggles%3A%20Fun%20Time%20With,the%20world%20of%20The%20Wiggles."
-        },
-        {
-            "index": 7,
-            "name": "Service Victoria",
-            "startDate": "2018-06-05",
-            "endDate": "2018-09-24",
-            "description": "A platform to securely store and share your identity including things like licences and permits.",
-            "images": [],
-            "link" : "https://apps.apple.com/au/app/service-victoria/id1438062029"
+            "link" : "https://www.weyo.app/wiggles-app-safety/"
         },
         {
             "index": 8,
+            "name": "Verizon Digital Kiosk",
             "startDate": "2017-06-05",
             "endDate": "2017-12-24",
-            "name": "Verizon Digital Kiosk",
-            "description": "Communications hubs that connect people to important and useful information - providing weather and emergency alerts, maps and hyperlocal community information about transit, restaurants, businesses and events.",
+            "description": "Platform - Communications hubs that connect people to important and useful information - providing weather and emergency alerts, maps and hyperlocal community information about transit, restaurants, businesses and events.",
             "images": [],
-            "link" : "https://www.twobulls.com/case-study-vdk"
+            "link" : "https://www.twobulls.com/archive/case-study-vdk"
         }
     ],
     "specific": {
@@ -222,7 +230,7 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=_Ba2bFPVTXiszwOt_LJyxg"
         },
-        "interestedBy": "DevOps, Automation, Cyber Security"
+        "interestedBy": "Automation, DevOps, Testing, Cyber Security"
     },
     "resumeCustomization": {
         "imageHeader": {

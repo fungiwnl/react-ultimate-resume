@@ -68,7 +68,7 @@ function App() {
                 // maxSkills: 6,
                 customization,
                 disableSortableExperience: false,
-                maxCardsPerRow: 3
+                maxCardsPerRow: 2
             }}
             additionalNodes={{
                 banner: {
