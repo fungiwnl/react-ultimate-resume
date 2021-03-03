@@ -3,7 +3,7 @@ name: Test
 on: push
 
 jobs:      
-  macos:
+  ubuntu:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -11,4 +11,13 @@ jobs:
         with:
           node-version: 12
       - run: yarn install
-      - run: CI=false npm run build 
+      - run: CI=false yarn build
+  macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - run: yarn install
+      - run: CI=false yarn build 
