@@ -13,7 +13,7 @@ jobs:
       - run: yarn install
       - run: CI=false yarn build
       - uses: actions/upload-artifact@master
-         with:
+        with:
           name: build-artifact
           path: build
   macos:
@@ -32,8 +32,8 @@ jobs:
     steps:
       - uses: actions/download-artifact@master
         with:
-          name: my-artifact
-          path: path/to/artifact
+          name: build-artifact
+          path: build
       - uses: jakejarvis/s3-sync-action@v0.5.1
         with:
           args: --acl public-read --follow-symlinks --delete
