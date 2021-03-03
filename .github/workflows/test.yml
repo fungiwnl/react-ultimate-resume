@@ -4,14 +4,11 @@ on: push
 
 jobs:      
   macos:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
           node-version: 12
       - run: yarn install
-      - run: npm run test-build
-      - run: yarn add @babel/preset-env -D 
-      - run: yarn upgrade laravel-mix
       - run: yarn build
