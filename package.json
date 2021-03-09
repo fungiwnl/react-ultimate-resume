@@ -1,6 +1,6 @@
 {
     "name": "@welovedevs/react-ultimate-resume",
-    "version": "1.0.5-beta.32",
+    "version": "1.1.1",
     "description": "Developer profile for W3D",
     "main": "lib/index.js",
     "scripts": {
@@ -29,7 +29,7 @@
     "license": "AGPLv3",
     "peerDependencies": {
         "@material-ui/core": "^4.11.0",
-        "@welovedevs/ui": "^1.1.0-beta.46",
+        "@welovedevs/ui": "1.1.4",
         "formik": "^2.1.2",
         "react": "^16.14.0",
         "react-dom": "^16.14.0"
@@ -40,13 +40,14 @@
         "@formatjs/intl-relativetimeformat": "^4.5.9",
         "@material-ui/pickers": "^3.2.9",
         "@types/giphy-api": "^2.0.2",
-        "@welovedevs/ui": "1.1.0-beta.46",
+        "@welovedevs/ui": "1.2.0",
         "chroma-js": "^2.1.0",
         "classnames": "^2.2.6",
         "copy-to-clipboard": "^3.3.1",
         "cp-cli": "^2.0.0",
         "downloadjs": "^1.4.7",
         "formik": "^2.1.2",
+        "framer-motion": "^3.3.0",
         "jss-preset-default": "10.0.3",
         "lodash": "^4.17.15",
         "moment": "^2.24.0",
@@ -59,7 +60,6 @@
         "react-jss": "10.0.3",
         "react-slick": "^0.25.2",
         "react-sortable-hoc": "^1.11.0",
-        "react-spring": "9.0.0-beta.33",
         "react-use-dimensions": "^1.2.1",
         "recharts": "^2.0.0-beta.1",
         "respinner": "^3.0.2",
