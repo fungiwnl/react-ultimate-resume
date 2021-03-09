@@ -22,7 +22,7 @@ const mergeFunction = (objValue, srcValue) => {
     return undefined;
 };
 
-const mode = process.env.REACT_APP_MODE || 'edit';
+const mode = process.env.REACT_APP_MODE || 'readonly';
 
 function App() {
     const classes = useStyles();
@@ -68,7 +68,7 @@ function App() {
                 // maxSkills: 6,
                 customization,
                 disableSortableExperience: false,
-                maxCardsPerRow: 3
+                maxCardsPerRow: 2
             }}
             additionalNodes={{
                 banner: {
