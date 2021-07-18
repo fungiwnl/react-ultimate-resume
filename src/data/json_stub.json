@@ -2,7 +2,7 @@
     "basics": {
         "name": "Brian Fung",
         "label": "Senior QA Engineer",
-        "summary": ".", 
+        "summary": "Senior QA Engineer", 
         "picture": "https://i.postimg.cc/ZnphKvLV/profilepic.png",
         "location": {
             "city": "Melbourne",
@@ -14,7 +14,7 @@
             "name": "Two Bulls",
             "position": "Senior QA Engineer",
             "startDate": "2019-08-01",
-            "summary": ".",
+            "summary": " ",
             "location": "Melbourne"
         },
         {
@@ -53,27 +53,27 @@
     "skills": [
         {
             "name": "Bash",
-            "value": 70
+            "value": 99
         },
         {
             "name": "Python",
-            "value": 70
+            "value": 100
         },
         {
             "name": "CI/CD",
-            "value": 70
+            "value": 99
         },
         {
             "name": "Mobile Test Automation",
-            "value": 70
+            "value": 99
         },
         {
             "name": "Web Test Automation",
-            "value": 70
+            "value": 99
         },
         {
             "name": "API Test Automation",
-            "value": 70
+            "value": 99
         },
         {
             "name": "AWS",
@@ -86,7 +86,7 @@
         {
             "name": "IaC",
             "level": "Master",
-            "value": 40
+            "value": 50
         }
         ],
         "languages": [
@@ -116,7 +116,6 @@
             "name": "Fitness",
             "gifUrl": "https://media.giphy.com/media/26BRz37sa0C4mYUQ8/giphy.gif"
         },
-
         {
             "name": "Gaming",
             "gifUrl": "https://media.giphy.com/media/GNvWw0pDL6QRW/giphy.gif"
@@ -135,13 +134,22 @@
             "index": 0,
             "name": "Service Victoria",
             "startDate": "2018-06-05",
-            "endDate": "2020-02-24",
+            "endDate": "2021-07-16",
             "description": "Mobile - A platform to check-in throughout Victoria and securely store and share your identity including things like licences and permits.",
             "images": [],
             "link" : "https://service.vic.gov.au/check-in/"
         },
         {
             "index": 1,
+            "name": "Release Me",
+            "startDate": "2021-01-05",
+            "endDate": "2021-03-24",
+            "description": "Responsive Web - A digital service to release real estate to the market.",
+            "images": [],
+            "link" : "https://release.me/"
+        },
+        {
+            "index": 2,
             "name": "28 By Sam Wood",
             "startDate": "2020-06-05",
             "endDate": "2020-09-24",
@@ -150,7 +158,7 @@
             "link" : "https://28bysamwood.com/"
         },
         {
-            "index": 2,
+            "index": 3,
             "name": "CovidCare",
             "startDate": "2020-03-05",
             "endDate": "2020-04-24",
@@ -159,52 +167,61 @@
             "link" : "https://www.covidcare.io/"
         },
         {
-            "index": 3,
+            "index": 4,
             "name": "BeyondNow",
             "startDate": "2018-06-05",
             "endDate": "2020-09-24",
-            "description": "Mobile - A suicide safety planning app that assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts.",
+            "description": "Mobile - Beyondblue's suicide safety planning app that assists you to create your own suicide safety plan; a plan to keep you safe when experiencing suicidal thoughts.",
             "images": [],
             "link" : "https://www.beyondblue.org.au/get-support/beyondnow-suicide-safety-planning"
         },
         {
-            "index": 4,
+            "index": 5,
             "name": "Scouts Australia",
             "startDate": "2020-06-05",
             "endDate": "2020-09-24",
-            "description": "Web - A youth program digital system to uplift the existing pen-and-paper Scouts program",
+            "description": "Responsive Web - A youth program digital system to uplift the existing pen-and-paper Scouts program",
             "images": [],
             "link" : "https://scouts.com.au/blog/2020/06/29/scouts-terrain-launching-late-july/"
         },
         {
-            "index": 5,
+            "index": 6,
             "name": "Althea Concierge",
             "startDate": "2019-06-05",
             "endDate": "2019-09-24",
-            "description": "Web - A service that simplifies the medicinal cannabis application process for patients and healthcare professionals – making it easier for patients to access the support they need.",
+            "description": "Web and Mobile - A service that simplifies the medicinal cannabis application process for patients and healthcare professionals – making it easier for patients to access the support they need.",
             "images": [],
             "link" : "https://althea.life/access-made-simple"
         },
         {
-            "index": 6,
+            "index": 7,
+            "name": "Oddbods Oddlife",
+            "startDate": "2018-06-05",
+            "endDate": "2018-09-24",
+            "description": "Mobile Game - An engaging Augmented Reality experience enabling children to sing and play along with their favorite screen characters.",
+            "images": [],
+            "link" : "https://www.weyo.app/oddbods-oddlife-app-safety/"
+        },
+        {
+            "index": 8,
             "name": "Sesame Street Yourself",
             "startDate": "2018-06-05",
             "endDate": "2018-09-24",
-            "description": "Mobile - An engaging Augmented Reality experience enabling children to sing and play along with their favorite screen characters.",
+            "description": "Mobile Game - An engaging Augmented Reality experience enabling children to sing and play along with their favorite screen characters.",
             "images": [],
             "link" : "https://www.weyo.app/sesame-street-yourself-app-safety/"
         },
         {
-            "index": 7,
+            "index": 9,
             "name": "Wiggles Fun Time With Faces",
             "startDate": "2018-06-05",
             "endDate": "2018-09-24",
-            "description": "Mobile - A brand new way of telling stories and singing songs with interactive video and fun Augmented Reality faces.",
+            "description": "Mobile Game - A brand new way of telling stories and singing songs with interactive video and fun Augmented Reality faces.",
             "images": [],
             "link" : "https://www.weyo.app/wiggles-app-safety/"
         },
         {
-            "index": 8,
+            "index": 10,
             "name": "Verizon Digital Kiosk",
             "startDate": "2017-06-05",
             "endDate": "2017-12-24",
