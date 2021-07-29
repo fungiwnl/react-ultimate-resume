@@ -1,15 +1,15 @@
-import mergeWith from 'lodash/mergeWith';
-import merge from 'lodash/merge';
-import cloneDeep from 'lodash/cloneDeep';
-import isArray from 'lodash/isArray';
+import mergeWith from 'lodash.mergewith';
+import merge from 'lodash.merge';
+import cloneDeep from 'lodash.clonedeep';
+import isArray from 'lodash.isarray';
 import DESIGN_SYSTEM_DEFAULT_PALETTE from '@welovedevs/ui/styles/palettes';
 
 import { THEME_SCHEMA } from './theme_schema';
 import { transformTheme } from './theme_transforms';
 
-const DEFAULT_PALETTE = Object.freeze(cloneDeep(DESIGN_SYSTEM_DEFAULT_PALETTE));
+const DEFAULT_PALETTE = cloneDeep(DESIGN_SYSTEM_DEFAULT_PALETTE);
 
-export const DEFAULT_THEME = Object.freeze({
+export const DEFAULT_THEME = {
     palette: DEFAULT_PALETTE,
     miscellaneous: {
         backgroundColor: DEFAULT_PALETTE.dark[50],
@@ -51,7 +51,7 @@ export const DEFAULT_THEME = Object.freeze({
             }))
         }
     }
-});
+};
 
 export const getRandomCardVariant = (theme) => Math.floor(Math.random() * theme.components?.cards?.variants?.length);
 

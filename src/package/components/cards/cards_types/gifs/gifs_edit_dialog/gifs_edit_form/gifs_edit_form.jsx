@@ -2,10 +2,9 @@ import React, { useCallback, useContext, useMemo, useState } from 'react';
 
 import { createUseStyles, useTheme } from 'react-jss';
 import { useFormikContext } from 'formik';
-import keyBy from 'lodash/keyBy';
-import capitalize from 'lodash/capitalize';
+import keyBy from 'lodash.keyby';
 
-import omit from 'lodash/omit';
+import omit from 'lodash.omit';
 import uuid from 'uuid/v4';
 import { arrayMove } from 'react-sortable-hoc';
 
@@ -76,8 +75,8 @@ const GifsEditFormComponent = ({ helpers: { handleValueChange } }) => {
     const globalError = typeof errors === 'string' && errors;
 
     const handleGifSelection = useCallback(
-        ({ url, title, user }) => {
-            interestChanged(selectedIndex, 'name', capitalize(title));
+        ({ url, user, query }) => {
+            interestChanged(selectedIndex, 'name', query);
             interestChanged(selectedIndex, 'gifUrl', url);
             interestChanged(selectedIndex, 'gifUser', user);
             removeSelectedIndex();

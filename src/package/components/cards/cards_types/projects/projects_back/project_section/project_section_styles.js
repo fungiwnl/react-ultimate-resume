@@ -18,6 +18,7 @@ export const styles = (theme) => {
             margin: spacing * 1.5
         },
         link: {
+            color: ['inherit', '!important'],
             display: 'flex',
             alignItems: 'center'
         },
@@ -37,6 +38,11 @@ export const styles = (theme) => {
         },
         detailTypography: {
             color: ['inherit', '!important']
+        },
+        salary: {
+            extend: 'detailTypography',
+            display: 'flex',
+            alignItems: 'center'
         }
     };
 };

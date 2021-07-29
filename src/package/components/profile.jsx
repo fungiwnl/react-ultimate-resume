@@ -2,8 +2,8 @@ import React, { useCallback, useMemo, useReducer, useState } from 'react';
 import { injectIntl, IntlProvider } from 'react-intl';
 import { createUseStyles, ThemeProvider } from 'react-jss';
 
-import mergeWith from 'lodash/mergeWith';
-import cloneDeep from 'lodash/cloneDeep';
+import mergeWith from 'lodash.mergewith';
+import cloneDeep from 'lodash.clonedeep';
 
 import { buildTheme } from '../utils/styles/theme/theme';
 import { Banner } from './banner/banner';
@@ -39,7 +39,7 @@ const messages = {
 };
 const useStyles = createUseStyles(styles);
 
-const DEFAULT_OPTIONS = Object.freeze({
+const DEFAULT_OPTIONS = {
     locale: 'en',
     customization: {
         imageHeader: {
@@ -50,7 +50,7 @@ const DEFAULT_OPTIONS = Object.freeze({
     maxCardsPerRow: 2,
     showContactInfos: false,
     dismissFooter: false
-});
+};
 
 const DEFAULT_OBJECT = {};
 const DEFAULT_FUNCTION = () => {};
